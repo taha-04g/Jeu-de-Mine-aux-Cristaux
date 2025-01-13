@@ -14,7 +14,7 @@ Le **Jeu de Mine aux Cristaux** est un jeu interactif développé en JavaScript.
 ## Technologies utilisées  
 - **Langage** : JavaScript  
 - **Frontend** : HTML, CSS  
-- **Gestion des événements** : DOM  
+  
 
 
 
