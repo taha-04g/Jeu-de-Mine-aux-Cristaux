@@ -1,6 +1,6 @@
 # Jeu-de-Mine-aux-Cristaux
 Jeu de Mine aux Cristaux (JavaScript)
-# Jeu de Mine aux Cristaux  
+ 
 
 ## Description  
 Le **Jeu de Mine aux Cristaux** est un jeu interactif développé en JavaScript. Inspiré du jeu classique "Démineur", il propose une expérience unique avec une grille dynamique, des déplacements stratégiques, et une collecte de cristaux.  
